@@ -1,0 +1,4 @@
+O(1)  // Best case time complexity (constant time)
+O(log^2(n))  // Average case time complexity (logarithmic squared)
+O(log^2(n))  // Worst case time complexity (logarithmic squared)
+
